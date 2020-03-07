@@ -1,6 +1,7 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/Qsxwax
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+
 DROP TABLE IF EXISTS departments CASCADE;
 DROP TABLE IF EXISTS employees CASCADE;
 DROP TABLE IF EXISTS dept_emp CASCADE;
